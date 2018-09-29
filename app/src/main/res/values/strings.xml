@@ -1,0 +1,130 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Amarillo Attractions</string>
+    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <string name="category_entertainment">Fun</string>
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="category_adventure">Explore</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="category_food">food</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+
+    <string name="cadillac2">Cadillac Ranch</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="cadillac">Public art installation</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="paloduro2">Palo Duro Canyon</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="paloduro1">USA 2nd largest canyon</string>
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="meredith2">Lake Meredith</string>
+
+    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <string name="meredith1">Popular vacation spot</string>
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <string name="botanical2">Amarillo Botanical Gardens</string>
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="botanical">4 acres of seasonal gardens</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="westgate1">West Gate Mall</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="westgate2">Shopping, dining and entertainment</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="soncy1">West Gate Plaza</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="soncy2">Multiple shops and restaurants</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="flea1">T-Anchor Flea Market</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="flea2">Local bazaar and outdoor market</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="kabuki1">Kabuki Romanza</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="kabuki2">Sushi tabletop teppanyaki fare</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="bigtex1">Big Texan</string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="bextex2">Saloon-style steakhouse offering a 72-oz. steak</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="abuelos1">Abuelos</string>
+
+    <!-- Vocabulary word for the mother family member [CHAR LIMIT=20] -->
+    <string name="abuelos2">Texas-based chain restaurant serving Mexican food</string>
+
+    <!-- Vocabulary word for the son family member [CHAR LIMIT=20] -->
+    <string name="ua1">United Artists Theater</string>
+
+    <!-- Vocabulary word for the daughter family member [CHAR LIMIT=20] -->
+    <string name="ua2">IMAX Movie Theater</string>
+
+    <!-- Vocabulary word for the older brother family member [CHAR LIMIT=20] -->
+    <string name="bar1">Guitars and Cadillacs</string>
+
+    <!-- Vocabulary word for the younger brother family member [CHAR LIMIT=20] -->
+    <string name="bar2">Cowboy-themed night club</string>
+
+    <!-- Vocabulary word for the older sister family member [CHAR LIMIT=20] -->
+    <string name="globe1">Globe-News Center</string>
+
+    <!-- Vocabulary word for the younger sister family member [CHAR LIMIT=20] -->
+    <string name="globe2">Performing arts theater and cultural center</string>
+
+    <!-- Vocabulary word for the grandmother family member [CHAR LIMIT=20] -->
+    <string name="family_grandmother">grandmother</string>
+
+    <!-- Vocabulary word for the grandfather family member [CHAR LIMIT=20] -->
+    <string name="family_grandfather">grandfather</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="phrase_where_are_you_going">Where are you going?</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="phrase_what_is_your_name">What is your name?</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="phrase_my_name_is">My name is...</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="phrase_how_are_you_feeling">How are you feeling?</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="phrase_im_feeling_good">I\'m feeling good.</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="phrase_are_you_coming">Are you coming?</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="phrase_yes_im_coming">"Yes, I\'m coming."</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="phrase_im_coming">I\'m coming.</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="phrase_lets_go">Let\'s go.</string>
+
+    <!-- Vocabulary phrase for "Come here." [CHAR LIMIT=20] -->
+    <string name="phrase_come_here">Come here.</string>
+</resources>

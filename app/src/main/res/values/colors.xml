@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app bar -->
+    <color name="primary_color">#616161</color>
+
+    <!-- Primary dark color of the app status bar -->
+    <color name="primary_dark_color">#212121</color>
+
+    <!-- Background color for app -->
+    <color name="low_background">#546E7A</color>
+
+    <!-- Background color for the descriptions -->
+    <color name="category_central">#546E7A</color>
+
+</resources>
